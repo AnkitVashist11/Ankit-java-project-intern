@@ -1,0 +1,11 @@
+package com.wipro.account.entity;
+
+public class SavingAccount extends Account {
+
+	@Override
+	public boolean withdraw(float amount) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}
